@@ -1,0 +1,4 @@
+timestamp,system_id,uptime_minutes,cpu_usage_pct,status,error_code,source_file,manager_name,reason
+2025-09-09 01:00:00,SYS-999,60.0,30.0,UP,,raw_logs_20250909_01.csv,,unknown_system
+2025-09-09 18:00:00,SYS-999,60.0,30.0,UP,,raw_logs_20250909_18.csv,,unknown_system
+2025-09-10 00:00:00,SYS-999,60.0,30.0,UP,,raw_logs_20250910_00.csv,,unknown_system
